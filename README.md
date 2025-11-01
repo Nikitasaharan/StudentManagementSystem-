@@ -4,7 +4,6 @@
 This project is a simple **Student Management System** developed using **Object-Oriented Programming (OOP)** concepts in Java.  
 It demonstrates **inheritance, polymorphism, abstract classes, interfaces, method overloading, and overriding**.
 
----
 
 ## Class Structure
 
@@ -29,7 +28,6 @@ It demonstrates **inheritance, polymorphism, abstract classes, interfaces, metho
 ### 4. `StudentManager` (Implements RecordActions)
 - Implements all CRUD operations using a `HashMap<Integer, Student>`.
 
----
 
 ## Features
 - Add, delete, update, search, and view student records.
@@ -39,14 +37,12 @@ It demonstrates **inheritance, polymorphism, abstract classes, interfaces, metho
   - `model` → for `Person` and `Student`
   - `service` → for `RecordActions` and `StudentManager`
 
----
 
 ## Technologies
 - **Language:** Java  
 - **Collections Used:** `HashMap`, `ArrayList`  
 - **Concepts:** Inheritance, Interfaces, Abstract Classes, Polymorphism
 
----
 
 ## How to Run
 ```bash
@@ -58,4 +54,3 @@ java Main
 - By: Nikita Saharan
 
 
-## 🖥️ Sample Output
