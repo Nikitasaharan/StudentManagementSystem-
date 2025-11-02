@@ -1,4 +1,4 @@
-# Student Management System (Java Lab Assignment 2)
+# Student Management System 
 
 ## Overview
 This project is a simple **Student Management System** developed using **Object-Oriented Programming (OOP)** concepts in Java.  
@@ -50,7 +50,11 @@ javac model/*.java service/*.java Main.java
 java Main
 ```
 
+## Output Screenshot
+<img width="510" height="797" alt="Screenshot 2025-11-02 114858" src="https://github.com/user-attachments/assets/009cf974-1a6b-4cbe-a797-df87c566ecc9" />
+
+
 ## Author
-- By: Nikita Saharan
-
-
+- Nikita Saharan
+- B.Sc (H) Data Science
+- Java Programming Lab Assignment - 2
